@@ -1,5 +1,5 @@
 {
-  "name": "Microend WebApp",
+  "name": "Microend",
   "short_name": "Microend",
   "start_url": "https://microend.org",
   "display": "fullscreen",
@@ -13,6 +13,16 @@
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
